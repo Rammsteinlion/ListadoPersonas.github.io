@@ -1,2 +1,8 @@
-# RelojDigital.github.io
-Reloj Digital Realizada en JavaScript
+# Reloj Digital en tiempo real
+
+<img src="RelojDigital.png" alt="">
+
+# Aplicacion Realizada en Javascript
+
+# Autor
+ ## Elkin Murillo
