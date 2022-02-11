@@ -1,4 +1,4 @@
-# Reloj Digital en tiempo real
+# Aplicacion Listado de personas
 
 <img src="images/Listado_personas.png" alt="">
 
