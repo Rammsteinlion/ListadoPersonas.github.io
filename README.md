@@ -1,6 +1,6 @@
 # Reloj Digital en tiempo real
 
-<img src="images/RelojDigital.png" alt="">
+<img src="images/Listado_personas.png" alt="">
 
 # Aplicacion Realizada en Javascript
 
